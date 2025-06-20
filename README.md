@@ -11,8 +11,8 @@ This project uses an open-source waste image dataset to train a model for practi
 ## Dataset & Video Presentation
 
 - **Dataset Link**: ([ /kaggle/input/garbage-classification-v2](url))  
-- **Video Presentation**: [Watch the Project Walkthrough](<[(https://youtu.be/BP1OQFgkiOg)>]
-
+- **Video Presentation**: https://youtu.be/BP1OQFgkiOg
+  
 In the video, I demonstrate the dataset, code, optimization techniques, and final results in approximately 5 minutes.
 
 ---
