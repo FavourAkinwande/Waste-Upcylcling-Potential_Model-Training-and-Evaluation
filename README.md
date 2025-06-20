@@ -11,7 +11,7 @@ This project uses an open-source waste image dataset to train a model for practi
 ## Dataset & Video Presentation
 
 - **Dataset Link**: ([ /kaggle/input/garbage-classification-v2](url))  
-- **Video Presentation**: [Watch the Project Walkthrough](<https://youtu.be/bpQEenlQUBk>)
+- **Video Presentation**: [Watch the Project Walkthrough](<[(https://youtu.be/BP1OQFgkiOg)>]
 
 In the video, I demonstrate the dataset, code, optimization techniques, and final results in approximately 5 minutes.
 
@@ -82,10 +82,6 @@ I implemented:
     Better convergence in deeper architectures was possible by using a slower learning rate, which allowed for more controlled, gradual updates to model weights.
     
   - The consistent performance of Instance 5 on the test set demonstrated how these strategies improved the model's capacity to recognize significant patterns without learning noise.
-
----
-
-## How to Run This Notebook and Load the Best Saved Model
 
 ---
 
